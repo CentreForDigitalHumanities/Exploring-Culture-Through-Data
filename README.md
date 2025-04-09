@@ -7,9 +7,9 @@ For an overview of the summer school of 2024, see the [week schedule](docs/sched
 
 ## Contents
 The content of this repository consists of three parts:
-1. Jupyter Notebooks, to be found under [code](https://github.com/CentreForDigitalHumanities/Exploring-Culture-Through-Data/tree/main/code). 
-3. Data that will be used during various assignments, found under [data](https://github.com/CentreForDigitalHumanities/Exploring-Culture-Through-Data/tree/main/data/).
-4. Documentation on the course materials and presentations can be found under [docs](https://github.com/CentreForDigitalHumanities/Exploring-Culture-Through-Data/tree/main/docs/).
+1. [Code](https://github.com/CentreForDigitalHumanities/Exploring-Culture-Through-Data/tree/main/code), consisting of Jupyter Notebooks. 
+3. [Data](https://github.com/CentreForDigitalHumanities/Exploring-Culture-Through-Data/tree/main/data/) that will be used during various assignments.
+4. [Documentation](https://github.com/CentreForDigitalHumanities/Exploring-Culture-Through-Data/tree/main/docs/) about the course materials and presentations.
 
 With that, the total structure looks roughly as follows:
 ```plaintext
