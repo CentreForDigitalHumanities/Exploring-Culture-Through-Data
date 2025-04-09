@@ -1,17 +1,15 @@
 # Exploring Culture Through Data (Data School Summer School)
 Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices](https://utrechtsummerschool.nl/courses/humanities/exploring-culture-through-data-digital-methods-data-practices) Summer School! We are excited to offer an in-depth exploration of using digital methods and data practices to analyze and understand culture. Join us to learn how to leverage data to gain insights into various cultural phenomena. Whether you are new to programming or an experienced data analyst, we have something for everyone.
 
-For an overview of the week, see the [week schedule](docs/schedule.pdf):
+For an overview of the summer school of 2024, see the [week schedule](docs/schedule.pdf):
 
 [![Preview of schedule](docs/img/schedule.png)](docs/schedule.pdf)
 
-More information can be found in the <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MyUniqueMeetingID%40thread.tacv2/0?context=%7b%22Tid%22%3a%22yourTenantID%22%2c%22Oid%22%3a%22yourUserID%22%7d">Microsoft Teams class <img src="https://teams.microsoft.com/favicon.ico" width="16px"></a> and via the <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616">LinkedIn event <img src="https://www.linkedin.com/favicon.ico" width="16px"></a>.
-
 ## Contents
 The content of this repository consists of three parts:
-1. Jupyter Notebooks, to be found under `code`.
-3. Data that will be used during various assignments, found under `data`.
-4. Documentation on the course materials and presentations can be found under `docs`.
+1. Jupyter Notebooks, to be found under [code](code/). 
+3. Data that will be used during various assignments, found under [data](data/).
+4. Documentation on the course materials and presentations can be found under [docs](docs/).
 
 With that, the total structure looks roughly as follows:
 ```plaintext
